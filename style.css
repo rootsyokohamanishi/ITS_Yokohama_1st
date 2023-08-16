@@ -280,6 +280,14 @@ h2 {
     padding-bottom: 10px;
 }
 
+.pdf {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .sub {
     width: 100%;
     padding-top: 10px;
