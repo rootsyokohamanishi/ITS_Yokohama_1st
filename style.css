@@ -301,6 +301,11 @@ h2 {
         width: 50%;
     }
 
+    .img {
+	    float: left;
+            width: 50%;
+    }
+
     .btn_add {
         float: left;
         width: 50%;
@@ -314,6 +319,12 @@ h2 {
 }
 
 .text {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content: center;
+}
+
+.img {
     padding-top: 10px;
     padding-bottom: 10px;
     justify-content: center;
