@@ -258,14 +258,13 @@ h2 {
 .news {
     padding-top: 10px;
     padding-bottom: 10px;
-    display: flex;
 }
 
 .news-list li a {
     margin: auto;
     margin-top: 10px;
     margin-bottom: 10px;
-    /*display: flex;*/
+    display: flex;
     flex-basis: auto;
     justify-content: center;
     align-items: center;
