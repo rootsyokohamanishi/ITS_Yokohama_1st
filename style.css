@@ -268,6 +268,10 @@ h2 {
     justify-content: center;
     align-items: center;
 }
+/*ここに追加した*/
+.news-list li a {
+	flex-basis: auto;
+}
 
 /*各ページ*/
 
