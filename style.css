@@ -267,6 +267,7 @@ h2 {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-basis: auto;
 }
 
 /*各ページ*/
