@@ -258,6 +258,11 @@ h2 {
 .news {
     padding-top: 10px;
     padding-bottom: 10px;
+
+    /*ここに追加*/
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .news-list li a {
@@ -265,6 +270,15 @@ h2 {
     text-decoration: underline;
     color: blue;
     /*ここまで追加*/
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.event-list li a {
     margin: auto;
     margin-top: 10px;
     margin-bottom: 10px;
