@@ -338,7 +338,22 @@ h2 {
 
     .img {
 	    float: left;
-            width: 100%;
+        width: 50%;
+    }
+
+    .news-img {
+        float: left;
+        width: 50%;
+    }
+
+    .event-img {
+        float: left;
+        width: 100%;
+    }
+
+    .notice-img{
+        float: left;
+        width: 50%;
     }
 
     .btn_add {
