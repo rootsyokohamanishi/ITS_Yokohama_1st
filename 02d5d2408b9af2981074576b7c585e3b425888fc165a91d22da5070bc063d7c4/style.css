@@ -330,6 +330,7 @@ h2 {
     justify-content: center;
 }
 
+
 @media only screen and (min-device-width: 960px) {
     .text {
         float: left;
