@@ -410,7 +410,7 @@ h3 {
 
 p {
     line-height: 1.5rem;
-    /*
+    /*ここを一時的に変更
     display: flex;
     */
     justify-content: center;
@@ -547,13 +547,12 @@ a.btn04:hover {
 
 
 /*きらっと光る*/
-
 .btnshine{
     /*キラッと光る基点とするためrelativeを指定*/
 	position: relative;
-    /*ボタンの形状*/	
+    /*ボタンの形状*/
 	display:inline-block;
-    background: #333;
+    background: #ffd700;
     color: #fff;
     padding: 10px 20px;
     text-decoration: none;
