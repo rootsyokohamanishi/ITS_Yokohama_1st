@@ -410,6 +410,14 @@ h3 {
 
 p {
     line-height: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*新たに追加*/
+p2 {
+    line-height: 1.5rem;
     /*ここを一時的に変更
     display: flex;
     */
@@ -552,6 +560,7 @@ a.btn04:hover {
 	position: relative;
     /*ボタンの形状*/
 	display:inline-block;
+    /*背景の色*/
     background: #ffd700;
     color: #fff;
     padding: 10px 20px;
