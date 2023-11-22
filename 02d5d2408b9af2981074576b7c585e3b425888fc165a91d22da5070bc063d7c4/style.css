@@ -561,9 +561,11 @@ a.btn04:hover {
     /*ボタンの形状*/
 	display:inline-block;
     /*背景の色*/
+    /*
     background: #ffd700;
     color: #fff;
     padding: 10px 20px;
+    */
     text-decoration: none;
     outline: none;
     overflow: hidden;
