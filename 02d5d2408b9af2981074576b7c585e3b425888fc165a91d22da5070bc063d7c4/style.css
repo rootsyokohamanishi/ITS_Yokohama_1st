@@ -109,7 +109,11 @@ h1 img {
       background-color: inherit;
       height: inherit;
       display: flex;
-      justify-content: end;
+
+      /*ここに追加*/
+      flex-wrap:wrap;
+
+      justify-content:space-between;
       width: 50%;
     }
 }
